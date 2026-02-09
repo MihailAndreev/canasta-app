@@ -329,7 +329,7 @@ footer p {
   .rules table {
     font-size: 0.9rem;
   }
-  
+
   .rules th, .rules td {
     padding: 0.5rem;
   }
@@ -670,34 +670,34 @@ html {
   .page-hero {
     padding: 2rem 1.5rem;
   }
-  
+
   .page-hero h1 {
     font-size: 2rem;
     letter-spacing: -0.3px;
   }
-  
+
   .hero-subtitle {
     font-size: 1rem;
   }
-  
+
   .tabs {
     gap: 0.25rem;
   }
-  
+
   .tab-btn {
     padding: 0.6rem 1rem;
     font-size: 0.95rem;
   }
-  
+
   .toc-box {
     padding: 1rem;
   }
-  
+
   .toc-box a {
     font-size: 0.85rem;
     padding: 0.4rem 0.6rem;
   }
-  
+
   .rules h1 {
     font-size: 2rem;
   }
@@ -729,4 +729,3 @@ html {
     padding: 0 1rem 0.75rem 1rem;
   }
 }
-
